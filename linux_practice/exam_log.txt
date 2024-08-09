@@ -1,0 +1,56 @@
+    1  .bash_history
+    2  hi
+    3  ls
+    4  mkdir linux_practice
+    5  cd linux_practice
+    6  touch notes.txt
+    7  ls>>notes.txt
+    8  ls >> notes.txt
+    9  cat notes.txt
+   10  echo "Hello, Linux!">notes.txt
+   11  echo "This is a practical exam.">>notes.txt
+   12  head -n 1 notes.txt
+   13  tail -n 1notes.txt
+   14  tail -n 1 notes.txt
+   15  mkdir subdir
+   16  cd subdir
+   17  mv notes.txt subdir/
+   18  cat linux_practice
+   19  cat notes.txt
+   20  tail -n 1 notes.txt
+   21  cd.
+   22  cd../..
+   23  cd ../..
+   24  cd linux_practic3
+   25  cd linux_practice
+   26  cat notes.txt
+   27  cd subdir
+   28  mv notes.txt subdir
+   29  cd ../..
+   30  cd linux_practice
+   31  mv notes.txt subdir/
+   32  cd subdir
+   33  cat notes.txt
+   34  mv subdir practice_subdir
+   35  cd ../..
+   36  cd linux_practice
+   37  mv subdir practice_subdir
+   38  cp practice_subdir/notes.txt
+   39  cp practice_subdir/notes.txt .
+   40  cd practice_subdir
+   41  cd ../..
+   42  cd linux_practice
+   43  date
+   44  time
+   45  uptime
+   46  du ~
+   47  ssh -v
+   48  php -v
+   49  apache -v
+   50  python -v
+   51  python --v
+   52  gh repp clone https://github.com/bianxadior/234741198_DeGuzman.git 
+   53  gh repo clone https://github.com/bianxadior/234741198_DeGuzman.git 
+   54  /git checkout -b finalexam
+   55  git checkout -b finalexam
+   56  history > exam_log.txt
